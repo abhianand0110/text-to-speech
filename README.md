@@ -9,3 +9,6 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 - Drop down custom text to speech
 - Speaks the text typed in
 - Change voices and accents
+
+## Link for the Website
+https://abhianand0110.github.io/text-to-speech/
